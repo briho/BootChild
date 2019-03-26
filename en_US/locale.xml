@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="en_US" full_name="U.S. English">
+    <message key="plugins.themes.bootchild.name">Basic Bootstrap Child Theme</message>
+    <message key="plugins.themes.bootchild.description">A first step in building a Bootstrap 3 Child Theme</message>
+</locale>
